@@ -84,10 +84,12 @@ The trained models were applied to real collision data, and the results, such as
 
 ## References
 
-1. CERN — LHC images gallery. Available at: [CERN Resources](https://home.cern/resources/image/accelerators/lhc-images-gallery)
-2. Izaak Neutelings. CMS coordinate system. Available at: [TikZ CMS](https://tikz.net/axis3d_cms/)
-3. C. F. Madrazo, I. H. Cacha, L. L. Iglesias, and J. M. de Lucas, “Application of a convolutional neural network for image classification to the analysis of collisions in high energy physics,” CoRR, vol. abs/1708.07034, 2017.
-4. “Ochoa, J. D. CNN-hep-thesis: Undergrad Thesis. Using a CNN to classify different HEP processes. GitHub. Available at: [GitHub](https://github.com/jose8af/cnn-hep-thesis)”
+1. Merizalde, D., Ochoa, J., Tintin, X., Carrera, E., Martinez, D., Mena, D. (2023). Exploring the Performance of Deep Learning in High-Energy Physics. In: Maldonado-Mahauad, J., Herrera-Tapia, J., Zambrano-Martínez, J.L., Berrezueta, S. (eds) Information and Communication Technologies. TICEC 2023. Communications in Computer and Information Science, vol 1885. Springer, Cham. [https://doi.org/10.1007/978-3-031-45438-7_3](https://doi.org/10.1007/978-3-031-45438-7_3)
+
+2. CERN — LHC images gallery. Available at: [CERN Resources](https://home.cern/resources/image/accelerators/lhc-images-gallery)
+3. Izaak Neutelings. CMS coordinate system. Available at: [TikZ CMS](https://tikz.net/axis3d_cms/)
+4. C. F. Madrazo, I. H. Cacha, L. L. Iglesias, and J. M. de Lucas, “Application of a convolutional neural network for image classification to the analysis of collisions in high energy physics,” CoRR, vol. abs/1708.07034, 2017.
+5. “Ochoa, J. D. CNN-hep-thesis: Undergrad Thesis. Using a CNN to classify different HEP processes. GitHub. Available at: [GitHub](https://github.com/jose8af/cnn-hep-thesis)”
 
 ---
 
