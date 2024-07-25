@@ -4,6 +4,20 @@
 **Date:** 10-18-2023  
 **Affiliation:** Universidad San Francisco de Quito
 
+
+To run GitHub project notebooks in Google Colab, follow these simplified steps:
+
+1. **Copy the GitHub Repository Link**: Visit the [GitHub repository](https://github.com), click on the **Code** button, and select **Copy** to copy the link.
+
+2. **Access Google Colab**: Open [Google Colab](https://colab.research.google.com) in your browser and sign in with your Google account.
+
+3. **Connect to the GitHub Repository**: In Colab, go to **File** > **Open notebook** > **GitHub**. Enter `xaviertintin/cnn-hep-thesis` directly in the search box, and press the search icon to connect to the correct repository.
+
+4. **Open the Notebook**: Select the repository, the branch, and the Jupyter notebook you want to open.
+
+5. **Run the Notebook**: Once open, run the notebook cells as you would in a local Jupyter environment.
+
+
 ## Table of Contents
 
 1. Introduction
